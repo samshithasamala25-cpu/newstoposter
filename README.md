@@ -317,3 +317,22 @@ Screenshots of the Home, Create, Poster Preview and Saved Posts pages can be add
 ## 17. License
 
 **License: To be determined**
+
+## 🚀 Live Demo
+
+- **Live Website:** https://newstoposter.vercel.app/
+- **Backend API:** https://newstoposter.onrender.com/
+- **GitHub Repository:** https://github.com/samshithasamala25-cpu/newstoposter
+
+## 📌 About the Project
+
+NewsToPoster transforms news into shareable social media posts using a web-based interface.
+
+## 🛠️ Technologies Used
+
+- React
+- JavaScript
+- HTML and CSS
+- Python
+
+
